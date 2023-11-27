@@ -3,7 +3,7 @@ My first repository
 # **My Favorite Series: "Stranger Things"**
 
 ## Overview
-![Stranger Things poster]([image.jpg](https://4.bp.blogspot.com/-Y3sysg_oCA8/WLqVr3NC3oI/AAAAAAAASTk/bZWmIYtjdJwRkLoGn1md3DCVpOGMqMsxACEw/s1600/BOOMGERS201606300002STRANGER.jpg))
+![Stranger Things poster](![Stranger Things poster](https://github.com/IsaacCanlas/app-dev/assets/152115246/231cd5b0-3bbd-4aed-a0f2-041ceaa8a78c))
 
 "Stranger Things" is a thrilling sci-fi horror series created by the Duffer Brothers. Set in the 1980s in the fictional town of Hawkins, Indiana, the show revolves around a group of kids who encounter supernatural forces and a parallel dimension known as the Upside Down.
 
